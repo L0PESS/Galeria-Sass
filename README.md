@@ -8,8 +8,8 @@
 
 Pude aproveitar muito desse conteudo, onde vemos:
 
-> Sintaxe do Sass
->> Como instalar
+> Como instalar
+>> Sintaxe do Sass
 >>> Separação de arquivos
 >>>> Variaveis
 >>>>> Blocos de variaveis
